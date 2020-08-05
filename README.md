@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there  👋
+
+[![Linkedin: julio-cesar-ribeiro](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-cesar-ribeiro-41b62472/)](https://www.linkedin.com/in/julio-cesar-ribeiro-41b62472/)
+
+Android Engineer at [Pitagoras Ampli](https://www.ampli.com.br/graduacao/vestibular/).   
+[Android](https://developer.android.com/?hl=pt-br) and [Kotlin](https://kotlinlang.org/) evangelist.   
+[Unreal Engine](https://www.unrealengine.com/en-US/) and [Unity](https://unity.com/pt) enthusiastic
+
+  <!-- 
+![GitHub followers](https://img.shields.io/github/followers/juliaramosguedes?label=Follow&style=for-the-badge&logo=Github&logoColor=white)
 
 <!--
 **shidobecker/shidobecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
