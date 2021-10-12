@@ -2,7 +2,7 @@
 
 [![Linkedin: julio-cesar-ribeiro](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-cesar-ribeiro-41b62472/)](https://www.linkedin.com/in/julio-cesar-ribeiro-41b62472/)
 
-Android Engineer at [Pitagoras Ampli](https://www.ampli.com.br/graduacao/vestibular/).   
+Android Engineer at [Kroton Tech](https://www.linkedin.com/company/kroton-tech/mycompany/).   
 [Android](https://developer.android.com/?hl=pt-br) and [Kotlin](https://kotlinlang.org/) evangelist.   
 [Unreal Engine](https://www.unrealengine.com/en-US/) and [Unity](https://unity.com/pt) enthusiastic
 
